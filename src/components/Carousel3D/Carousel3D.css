@@ -115,7 +115,7 @@
   }
 
   .card-carousel {
-    height: 40vh;
+    height: 42vh;
     padding: 15px;
   }
 
@@ -133,7 +133,7 @@
 /* Réglages pour les très petits écrans */
 @media (max-width: 576px) {
   .card-carousel {
-    height: 45vh;
+    height: 33vh;
     padding: 10px;
   }
 

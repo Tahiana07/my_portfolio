@@ -155,6 +155,21 @@
   .picture-a, .text-content {
     padding: 10px;  /* Reduced padding */
   }
+
+  .profile-image {
+    left: 65%;
+    margin-left: -45%;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .decorative-circle {
+    position: absolute;
+    left: 25%;
+    border-radius: 50%;
+    background-color: #fff;
+    z-index: 0;
+  }
 }
 
 @media screen and (max-width: 576px) {
